@@ -1,0 +1,17 @@
+SampleID	SampleName	Group	SampleIDs
+1	lucerne	legumes	1
+2	Desmanthes	legumes	2
+7	Arachis	legumes	7
+8	Stylosanthus	legumes	8
+4	Pennisetum	Grasses	4
+5	Dicanthium	Grasses	5
+6	Panicum	Grasses	6
+17	BxN	Grasses	17
+9	Control	biocharSet1	9
+11	T-10 8MT 	biocharSet1	11
+13	RDF	biocharSet1	13
+14	T5 5MT	biocharSet1	14
+10	maize control	maizebiochar	10
+16	Maize biochar	maizebiochar	16
+20	Sorghum	maizebiochar	20
+12	Trifolium	maizebiochar	12
